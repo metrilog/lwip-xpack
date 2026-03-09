@@ -1,6 +1,6 @@
 {
 	"name": "@lix/lwip",
-	"version": "2.2.2-1",
+	"version": "2.2.2-2",
 	"description": "lwIP is a small independent implementation of the TCP/IP protocol suite",
 	"author": {
 		"name": "Lix N. Paulian",
